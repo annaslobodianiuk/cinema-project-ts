@@ -1,0 +1,14 @@
+{
+  "genre" : "Genre:",
+  "age" : "Age: ",
+  "sixteen" : " 16+",
+  "eighteen": " 18+",
+  "language" : "Original language:",
+  "country" : "Original country: ",
+  "release" : "Release date:",
+  "description" : "Description:",
+  "likes" : "Likes:",
+  "dislikes" : "Dislikes:",
+  "like" : "Like",
+  "dislike" : "Dislike"
+}
