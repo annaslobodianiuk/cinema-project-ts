@@ -12,7 +12,7 @@ export default function HomeMain() {
   return (
     <div className="relative bg-blue-950 h-full">
       <StarrySky countStar={50} />
-      <div className="px-8 py-8 flex flex-col justify-center items-center sm:grid sm:grid-cols-2 md:px-10 md:py-10 lg:px-14 lg:py-16 xl:px-20 2xl:max-w-[1500px] 2xl:mx-auto relative z-10">
+      <div className="px-8 py-8 flex flex-col justify-center items-center sm:grid sm:grid-cols-2 md:px-10 md:py-10 lg:px-14 lg:py-16 xl:px-20 relative z-10">
         <div className="font-bold text-3xl text-amber-50 text-center pb-10 sm:hidden">
           {main.title}
         </div>

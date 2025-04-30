@@ -10,7 +10,7 @@ export default function Footer() {
       id="footer"
       className="bg-blue-950 text-sm lg:text-base text-amber-200 border-t-2 border-yellow-400 px-8 sm:px-12 py-8 lg:px-20 lg:py-10"
     >
-      <div className="font-graphik grid grid-cols-2 sm:grid-cols-3 gap-4 sm:gap-0 2xl:max-w-[1400px] 2xl:mx-auto">
+      <div className="font-graphik grid grid-cols-2 sm:grid-cols-3 gap-4 sm:gap-0">
         <div className="h-[80px] w-[80px] md:w-[100px] md:h-[100px]">
           <Link href="/" className="block w-fit">
             <Image
